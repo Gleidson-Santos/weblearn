@@ -1,16 +1,5 @@
 const products = [
   {
-    "id": "Lw6MjFoz",
-    "name": "Elétrica Predial e Residencial",
-    "category": "Técnica e manutenção",
-    "topic": "Elétrica",
-    "link": "https://kiwify.app/ufyFYod?afid=cq9AKIXJ",
-    "description": "Conheça a apresentação do curso de elétrica predial e residencial e confira os detalhes na página do produtor.",
-    "image": "images/Lw6MjFoz.webp",
-    "imageWidth": 64,
-    "imageHeight": 64
-  },
-  {
     "id": "rEG3pt8t",
     "name": "Pneumática Naval - Primeiro Curso do Embarcando na Elétrica",
     "category": "Técnica e manutenção",
