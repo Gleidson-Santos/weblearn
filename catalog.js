@@ -106,9 +106,9 @@ const products = [
     "category": "Negócios e conteúdo",
     "topic": "Produto digital",
     "link": "https://kiwify.app/4GRFavD?afid=1ZEPE7cP",
-    "description": "Introdução ao dropshipping para quem quer conhecer o modelo de venda online sem manter estoque próprio."
-  ,
-    "image": "images/GReKWhXg.webp"},
+    "description": "Introdução ao dropshipping para quem quer conhecer o modelo de venda online sem manter estoque próprio.",
+    "image": "images/GReKWhXg.webp"
+  },
   {
     "id": "OFPXiSAo",
     "name": "Tok Gringo",
@@ -350,10 +350,144 @@ const products = [
     "description": "Destaque seu consultório com posts prontos, legendas e stories editáveis no Canva para divulgar serviços odontológicos.",
     "link": "https://maciladesign.my.canva.site/pack-odontologia",
     "image": "https://aws-assets.kiwify.com.br/cdn-cgi/image/fit=scale-down,width=400/E1OVGgevROfc49T/capa-pack-odontologia-kiwify_93ffbcff4ff84d709d46921257435ecb.png"
+  },
+  {
+    "id": "woAhJ5Ug",
+    "name": "Curso vídeos imobiliários I.A",
+    "category": "Negócios e conteúdo",
+    "topic": "Vídeos com inteligência artificial",
+    "link": "https://kiwify.app/2JXjiuc?afid=O81TIXXb",
+    "description": "Aprenda a criar vídeos de imóveis, construções e reformas com inteligência artificial, mesmo começando do zero.",
+    "image": "images/woAhJ5Ug.webp",
+    "imageWidth": 400,
+    "imageHeight": 332
+  },
+  {
+    "id": "6JraEH8h",
+    "name": "GMN no TOPO - Curso de Google Meu Negócio",
+    "category": "Negócios e conteúdo",
+    "topic": "Presença digital local",
+    "link": "https://kiwify.app/kJUEgNx?afid=G749R2tq",
+    "description": "Aprenda a criar e otimizar perfis de empresas no Google Meu Negócio para melhorar a presença nas buscas locais.",
+    "image": "images/6JraEH8h.webp",
+    "imageWidth": 400,
+    "imageHeight": 400
+  },
+  {
+    "id": "Qy36HjCh",
+    "name": "Nail Designer Profissional - Curso Completo Alongamento de Unhas",
+    "category": "Beleza e cuidados",
+    "topic": "Alongamento de unhas",
+    "link": "https://kiwify.app/61Z8Bua?afid=ultTUJ5b",
+    "description": "Formação em alongamento de unhas, com técnicas de fibra de vidro, gel, manutenção, remoção e decoração.",
+    "image": "images/Qy36HjCh.webp",
+    "imageWidth": 400,
+    "imageHeight": 400
+  },
+  {
+    "id": "XAvQog1C",
+    "name": "Curso Design de Sobrancelhas 3.0",
+    "category": "Beleza e cuidados",
+    "topic": "Design de sobrancelhas",
+    "link": "https://kiwify.app/eB3AZkS?afid=tgnyJYaN",
+    "description": "Aprenda técnicas de design de sobrancelhas, mapeamento, henna e epilação, do básico ao avançado.",
+    "image": "images/XAvQog1C.webp",
+    "imageWidth": 400,
+    "imageHeight": 333
+  },
+  {
+    "id": "gpQrsxJP",
+    "name": "Curso de Serralheria Artística ARTE SOLDA",
+    "category": "Técnica e manutenção",
+    "topic": "Serralheria artística",
+    "link": "https://kiwify.app/l6Er90l?afid=DAnEB9TF",
+    "description": "Aprenda serralheria artística do zero, com técnicas de fabricação, soldagem, montagem e acabamento de peças.",
+    "image": "https://aws-assets.kiwify.com.br/cdn-cgi/image/fit=scale-down,width=400/4XxusEzp7B3kbdw/304C75A8-D790-4A49-99CA-D9C2875EA96B_7feaba2c29b7421682c6b9c361ef1d81.png"
+  },
+  {
+    "id": "VLIXFmLU",
+    "name": "Curso Reparo de Placas - Cícero Cawboy",
+    "category": "Técnica e manutenção",
+    "topic": "Reparo de placas Android",
+    "link": "https://kiwify.app/uji80Lu?afid=VzprOAkg",
+    "description": "Aprenda eletrônica, análise de esquemas, microsoldagem e reparos avançados em placas de celulares Android.",
+    "image": "https://aws-assets.kiwify.com.br/cdn-cgi/image/fit=scale-down,width=400/OBshzYTGeMF0lTl/Arte-curso_a31f1f381a9e424a82ac2a89d5282f89.jpg"
+  },
+  {
+    "id": "KLMXmrH1",
+    "name": "Escola dos Cílios 3.0 - Curso de Extensão de Cilios do Básico ao Avançado",
+    "category": "Beleza e cuidados",
+    "topic": "Extensão de cílios",
+    "link": "https://kiwify.app/vFIjT25?afid=2t1abbGz",
+    "description": "Aprenda técnicas de extensão de cílios, fio a fio, volumes, lash lifting e aplicação híbrida, do básico ao avançado.",
+    "image": "https://aws-assets.kiwify.com.br/cdn-cgi/image/fit=scale-down,width=400/1yxQvNkTIsSsCOG/JS---Lash-Designer_dae4fc4525a5492e93b74f2cc467930e_4292a7222745418abba19dc313cae412.jpg"
+  },
+  {
+    "id": "dT9P3suk",
+    "name": "Curso Importador Esportivo",
+    "category": "Negócios e conteúdo",
+    "topic": "Importação e revenda",
+    "link": "https://kiwify.app/ncrKpF6?afid=P3zEsO1t",
+    "description": "Aprenda sobre importação, organização de catálogo, divulgação e revenda de camisas e produtos esportivos.",
+    "image": "https://assets.kiwify.com.br/cdn-cgi/image/fit=scale-down,width=400/sUYibAzafQ0fIb1/Capa-Kiwfy-Importador_546b904eb46f444f86685f9c6924a988.png"
+  },
+  {
+    "id": "0U3xqKTf",
+    "name": "Curso Online- Tatuador Iniciante Profissional",
+    "category": "Beleza e cuidados",
+    "topic": "Tatuagem para iniciantes",
+    "link": "https://kiwify.app/zHV923c?afid=dUcG0Q2G",
+    "description": "Aprenda fundamentos da tatuagem, equipamentos, biossegurança, traços, sombras e preparação para os primeiros atendimentos.",
+    "image": "https://aws-assets.kiwify.com.br/cdn-cgi/image/fit=scale-down,width=400/MA22Kut8YMRXr4I/207CDF75-814D-4586-8971-8CA2226A9CCE-1_90e99198c4df4506909dd84910901a03.png"
+  },
+  {
+    "id": "DYaNo3e8",
+    "name": "Curso Barbeiro Online | Curso de Barbeiro Profissional para Iniciantes",
+    "category": "Beleza e cuidados",
+    "topic": "Barbearia para iniciantes",
+    "link": "https://kiwify.app/GoSmm0n?afid=hjhnVCKw",
+    "description": "Aprenda técnicas de corte masculino e fundamentos de barbearia, começando do zero e estudando online.",
+    "image": "https://aws-assets.kiwify.com.br/cdn-cgi/image/fit=scale-down,width=400/W4eo2d5xljz01Hw/FB-INI-2_7eec280bf0424215876fe89355eabf7f.jpg"
+  },
+  {
+    "id": "kzcSsuDv",
+    "name": "Curso Alongamentos Express Profissional - Molde F1 | Postiça Realista | Soft Gel | Polygel | Unhas",
+    "category": "Beleza e cuidados",
+    "topic": "Alongamentos de unhas",
+    "link": "https://kiwify.app/yfykVeC?afid=Ek1Kq7x6",
+    "description": "Aprenda alongamentos com molde F1, postiça realista, soft gel e polygel, além de formatos e decoração de unhas.",
+    "image": "https://aws-assets.kiwify.com.br/cdn-cgi/image/fit=scale-down,width=400/8F38bQPJChzAE1x/foto-de-perfil-1_cb4ab569bfee4912a28730a3d9b8861a.png"
+  },
+  {
+    "id": "FUis07Li",
+    "name": "Curso de Excel Profissional",
+    "category": "Estudos e organização",
+    "topic": "Excel profissional",
+    "link": "https://kiwify.app/N7HmDhV?afid=rdA8X8A9",
+    "description": "Aprenda a usar o Microsoft Excel em atividades profissionais, organizar planilhas e melhorar a produtividade.",
+    "image": "https://aws-assets.kiwify.com.br/cdn-cgi/image/fit=scale-down,width=400/DVtSO3lCIdUEBFC/aberta-Post-para-Instagram_5e75305c017443a1b53d271dbbc8cdff.jpg"
+  },
+  {
+    "id": "aXRqtd00",
+    "name": "Curso de Chat GPT",
+    "category": "Ferramentas digitais",
+    "topic": "ChatGPT e produtividade",
+    "link": "https://kiwify.app/NArohYE?afid=PdExwMbL",
+    "description": "Aprenda a usar o ChatGPT, escrever prompts e aplicar inteligência artificial na criação de conteúdo e em tarefas do dia a dia.",
+    "image": "https://aws-assets.kiwify.com.br/cdn-cgi/image/fit=scale-down,width=400/DVtSO3lCIdUEBFC/CHAT03-FEED_af4ba649489b4b4db62d23dd472a98bb.png"
+  },
+  {
+    "id": "ooEKl5H5",
+    "name": "Platinado Avançado para Barbeiros",
+    "category": "Beleza e cuidados",
+    "topic": "Colorimetria e platinado",
+    "link": "https://kiwify.app/3XRpV6H?afid=WodTdOhv",
+    "description": "Aprenda técnicas de descoloração, colorimetria e platinado para ampliar seus serviços de barbearia.",
+    "image": "https://aws-assets.kiwify.com.br/cdn-cgi/image/fit=scale-down,width=400/W4eo2d5xljz01Hw/FB-COL-2_651519322c3944a6bd4f894c5df17c59.jpg"
   }
 ];
 const categories = [...new Set(products.map(p=>p.category))];
-const accents = ['#187268','#285cc0','#7653a9','#a25826','#426c87','#7b5066'];
+const accents = ['#187268','#285cc0','#7653a9','#a25826','#426c87','#7b5066','#925b78'];
 const normalize = text=>text.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
 let selectedCategory='Todos';
 const grid=document.getElementById('products');
@@ -367,7 +501,7 @@ function render(){
  grid.replaceChildren(...matches.map(p=>{
   const article=document.createElement('article'); article.className='product'; article.style.setProperty('--accent',accents[categories.indexOf(p.category)]);
   const media=document.createElement('div'); media.className='product-media'+(p.image?'':' media-text');
-  if(p.image){const img=document.createElement('img');img.src=p.image;img.alt='Imagem de divulgação de '+p.name;img.width=p.imageWidth||400;img.height=p.imageHeight||250;img.loading='lazy';img.decoding='async';media.append(img);}
+  if(p.image){const img=document.createElement('img');img.alt='Imagem de divulgação de '+p.name;img.width=p.imageWidth||400;img.height=p.imageHeight||250;img.loading='lazy';img.decoding='async';img.addEventListener('error',()=>{media.classList.add('media-text');const label=document.createElement('span');label.textContent=p.topic;media.replaceChildren(label);},{once:true});img.src=p.image;media.append(img);}
   else {const label=document.createElement('span');label.textContent=p.topic;media.append(label);}
   const top=document.createElement('div');top.className='card-top';
   const category=document.createElement('span');category.className='category';category.textContent=p.category;
